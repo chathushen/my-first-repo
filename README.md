@@ -1,4 +1,4 @@
-# my-first-repository
+# my-first-repo
 
 # My First Repository
 A beginner GitHub project
