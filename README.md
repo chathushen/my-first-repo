@@ -1,9 +1,6 @@
-# my-first-repo
+## What I Learned Today
 
-# My First Repository
-A beginner GitHub project
-created during the workshop.
+I am currently attending a GitHub workshop.
+Today I Learned about: - Version control - Creating a repository - the edit-commit-push cycle
 
-## About Me
-My nane is **Chathushen**.
-I am learning GitHub.
+My GitHub profile: https://github.com/chathushen/my-first-repo#
